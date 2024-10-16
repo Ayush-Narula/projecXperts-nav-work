@@ -1229,22 +1229,22 @@ footer{
         /* word-spacing: px; */
         text-shadow: 0.7px 0.4px #0088a9;
         /* text-align: center; */
-        margin-left: 0.px;
-        margin-right: -50px;
+        /* margin-left: 0.px; */
+        margin-right: -70px;
     } 
     
     #second-text {
         font-size: 27.5px;
-        text-shadow: 0.7px 0.4px #0088a9;
+        text-shadow: 0.7px 0.3px #0088a9;
         /* margin-left: 10px; */
-        margin-right: -48px; 
+        margin-right: -68px; 
     }
     
     #third-text {
         font-size: 28px;
-        text-shadow: 0.6px 0.3px #0088a9;
+        text-shadow: 0.7px 0.4px #0088a9;
         /* margin-left: 5px; */
-        margin-right: -49px; 
+        margin-right: -69px; 
     } 
     
     #why {
@@ -1390,18 +1390,22 @@ footer{
     }
     
     .social-icons{
-        margin-right: -40px; 
+        margin-right: -80px; 
     }
     
     #copywork{
-        margin-left: 95px;
+        margin-left: 135px;
         text-align: start;
+    }
+
+    .grow-my-brand-btn{
+        margin-left: 60px;
     }
     
     .footer-top{
         font-size: 12px;
         justify-content: start;
-        margin-left: 110px;
+        margin-left: 160px;
     }
     
     .our-services-sec{
